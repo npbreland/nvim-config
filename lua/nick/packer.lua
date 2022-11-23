@@ -7,7 +7,6 @@ return require('packer').startup(function(use)
   use 'neovim/nvim-lspconfig'
   use 'folke/tokyonight.nvim'
   use 'tpope/vim-fugitive'
-  use 'mfussenegger/nvim-jdtls'
   use 'maxmellon/vim-jsx-pretty'
   use 'editorconfig/editorconfig-vim'
 
